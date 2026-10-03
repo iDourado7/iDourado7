@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%3E+SYSTEM+BOOT+SEQUENCE+INITIATED...;%3E+LOADING+PROFILE%3A+MATHEUS+PIRES+BRITO...;%3E+STATUS%3A+LEARNING+REACT+%26+JAVASCRIPT..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%3E+SYSTEM+BOOT+SEQUENCE+INITIATED...;%3E+LOADING+PROFILE%3A+MATHEUS+PIRES...;%3E+STATUS%3A+LEARNING+REACT+%26+JAVASCRIPT..." alt="Typing SVG" />
 <br/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Matheus%20Pires%20Brito&fontSize=60&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20%7C%20Aprendendo%20React%20e%20JavaScript&descAlignY=55&descSize=18" width="100%"/>
