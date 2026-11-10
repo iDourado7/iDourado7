@@ -98,8 +98,6 @@ operator@github: echo "Sempre em modo de aprendizado..._"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINK)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR-LINK)
-[![Twitter/X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-LINK)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR-ID)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)
 
 </div>
