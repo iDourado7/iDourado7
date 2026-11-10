@@ -18,14 +18,13 @@
 
 ```yaml
 sistema:
-  nome: "Matheus Pires Brito"
+  nome: "Matheus Pires"
   funcao: "Estudante de Desenvolvimento"
   localizacao: "Rio de janeiro-BR"
   interesses:
     - React
     - JavaScript
     - Desenvolvimento Web
-    - Open Source
   status_atual: "Aprendendo React e JavaScript..."
   filosofia: "Cada erro é um passo a mais no aprendizado."
 ```
